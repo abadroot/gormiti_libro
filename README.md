@@ -66,10 +66,16 @@ Le risorse provengono dal sito ufficiale (https://www.gormiti.com/it), pubblicam
 - Gredd
 - Kratus
 
-### Web Archive
+## Web Archive
 
 http://web.archive.org/web/20190421050918/https://www.gormiti.com/it
 http://web.archive.org/web/20190421051113/https://www.gormiti.com/it/fire
 http://web.archive.org/web/20190421051254/https://www.gormiti.com/it/ice
 http://web.archive.org/web/20190421051443/https://www.gormiti.com/it/wind
 http://web.archive.org/web/20190421051554/https://www.gormiti.com/it/evil
+
+## Extra
+
+Un regalo extra per mio figlio, lo scudo di Koga, uno dei personaggio preferiti, in cartone.
+
+![](/docs/img/slide_scudo.gif)
