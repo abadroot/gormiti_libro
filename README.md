@@ -2,7 +2,7 @@
 
 Un progetto di un libro di poche pagine per far divertire mio figlio.
 
-![](/docs/img/slide-libro.gif)
+![](/docs/img/slide_libro.gif)
 
 ## Quali Gormiti
 
