@@ -8,7 +8,7 @@ Un progetto di un libro di poche pagine per far divertire mio figlio.
 
 Vedi [Gormiti](https://it.wikipedia.org/wiki/Gormiti#Serie_animata) su Wikipedia.
 
-Le risorse provengono dal sito ufficiale (https://www.gormiti.com/it).
+Le risorse provengono dal sito ufficiale (https://www.gormiti.com/it), pubblicamente accessibile, di cui alcune pagine sono state salvate su web.archive.org (vedi sezione sotto).
 
 ## Personaggi
 
@@ -76,3 +76,11 @@ Le risorse provengono dal sito ufficiale (https://www.gormiti.com/it).
 - Cryptus
 - Gredd
 - Kratus
+
+### Web Archive
+
+http://web.archive.org/web/20190421050918/https://www.gormiti.com/it
+http://web.archive.org/web/20190421051113/https://www.gormiti.com/it/fire
+http://web.archive.org/web/20190421051254/https://www.gormiti.com/it/ice
+http://web.archive.org/web/20190421051443/https://www.gormiti.com/it/wind
+http://web.archive.org/web/20190421051554/https://www.gormiti.com/it/evil
