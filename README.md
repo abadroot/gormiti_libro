@@ -10,7 +10,7 @@ Un progetto di un libro di poche pagine per far divertire mio figlio.
 
 Vedi [Gormiti](https://it.wikipedia.org/wiki/Gormiti#Serie_animata) su Wikipedia.
 
-Le risorse provengono dal sito ufficiale (https://www.gormiti.com/it), pubblicamente accessibile, di cui alcune pagine sono state salvate su web.archive.org ([vedi sezione])(#web-archive).
+Le risorse provengono dal sito ufficiale (https://www.gormiti.com/it), pubblicamente accessibile, di cui alcune pagine sono state salvate su web.archive.org ([vedi sezione](#web-archive)).
 
 ## Personaggi
 
