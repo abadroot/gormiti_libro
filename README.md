@@ -79,3 +79,7 @@ http://web.archive.org/web/20190421051554/https://www.gormiti.com/it/evil
 Un regalo extra per mio figlio, lo scudo di Koga, uno dei personaggio preferiti, in cartone.
 
 ![](/docs/img/slide_scudo.gif)
+
+## Licenza
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/it/80x15.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/it/">Creative Commons Attribuzione - Condividi allo stesso modo 3.0 Italia</a>.
